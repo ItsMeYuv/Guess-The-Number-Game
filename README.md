@@ -1,4 +1,7 @@
 # Guess-The-Number-Game
 A Guess The Number Game in Python Programming language 
 
-In this program I learnt how to use while loops in a real project.
+# What I learnt
+In this project I learnt:
+- How to use loops
+- Use the random module
