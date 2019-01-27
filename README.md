@@ -5,3 +5,4 @@ A Guess The Number Game in Python Programming language
 In this project I learnt:
 - How to use loops
 - Use the random module
+- How to use try and except
